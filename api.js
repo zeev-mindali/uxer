@@ -1,2 +1,2 @@
-export const data = "[{name: 'zeev'}]";
+export const data = "[{name: 'zeev'}]"
 
